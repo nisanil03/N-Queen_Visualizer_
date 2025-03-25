@@ -1,10 +1,10 @@
 # N-Queens Visualizer
-https://github.com/nisanil03/N-Queen_Visualizer_/blob/main/Screenshot%20(81).png
+![queeeen](https://github.com/TuShArBhArDwA/N-Queen_Visualizer/assets/116137083/01859e13-84bc-4032-aee2-ad103f39feba)
 
 This project is a visualizer for the N-Queens problem, demonstrating the process of solving the problem using backtracking. It allows users to select the size of the chessboard and visualizes the placement and removal of queens step-by-step.
 
 ## Project Live Link
-[Live Demo].(https://n-queen-visualizer-seven.vercel.app/)
+[Live Demo](https://n-queen-visualizer-seven.vercel.app/)
 
 ## Table of Contents
 
